@@ -29,7 +29,7 @@ This template uses **pnpm** as the package manager. If you don't already have `p
    npm install -g pnpm
    ```
 
-Installing Third-Party Libraries
+### Installing Third-Party Libraries
 
 When installing additional libraries, use pnpm for consistency with this template:
 ```bash
